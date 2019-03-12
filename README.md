@@ -3,3 +3,13 @@
 
 ![screenshot](dynamic.PNG)
 
+
+# Configuration Api Gateway
+
+```json
+Method : GET
+```
+
+![screenshot](confg.PNG)
+
+![screenshot](confg2.PNG)
